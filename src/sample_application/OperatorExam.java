@@ -5,7 +5,7 @@ public class OperatorExam {
 	public static void main(String[] args) {
 		
 		final int ONE_MINUTES = 60;
-		
+		// 변수와 다르값저장
 		//Quiz 1
 //		int minutes = 5 ;
 //		int seconds = 50;
