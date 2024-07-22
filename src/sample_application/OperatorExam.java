@@ -5,7 +5,7 @@ public class OperatorExam {
 	public static void main(String[] args) {
 		
 		final int ONE_MINUTES = 60;
-		// 변수와 다르값저장
+		// 변수와 다르값 저장
 		//Quiz 1
 //		int minutes = 5 ;
 //		int seconds = 50;
@@ -35,6 +35,8 @@ public class OperatorExam {
 		fahrenheit = (celsius * 9/5) + 32;
 		System.out.println("섭씨 : "+celsius);
 		System.out.println("화씨 : "+fahrenheit);
+		
+		
 		
 	}
 
